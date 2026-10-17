@@ -34,6 +34,6 @@ Me apasiona el uso y desarrollo de agentes de IA, la competencia algortimica, la
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
-* **Divulgación Científica (Reels):** [@tu_cuenta_math](https://instagram.com/tu_cuenta)
-* **Email:** tu.correo@ejemplo.com
+* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/flores-nogueron-misael-abisai-bb3403387/?isSelfProfile=true)
+* **Divulgación Científica (Reels):** [@tu_cuenta_math](https://www.instagram.com/milab_matematicas/)
+* **Email:** misaelfloresnogueron99579@gmail.com
